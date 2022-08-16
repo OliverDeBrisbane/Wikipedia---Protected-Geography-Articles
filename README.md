@@ -52,3 +52,4 @@ Languages:
 * ქართველი (Georgian)
 * 中文 (Chinese)
 * 日本語 (Japanese)
+* ދިވެހި, (Dhivehi)
