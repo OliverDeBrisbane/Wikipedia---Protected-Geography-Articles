@@ -21,6 +21,7 @@ Languages:
 * eesti (Estonian)
 * English (English)
 * español (Spanish)
+* føroyskt (Faroese)
 * français (French)
 * Gaelg (Manx)
 * Gàidhlig (Scots Gaelic)
