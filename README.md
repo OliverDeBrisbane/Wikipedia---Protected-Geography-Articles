@@ -49,6 +49,7 @@ Languages:
 * српски/srpski (Serbian)
 * татарча/tatarça (Tatar)
 * українська (Ukrainian)
+* עִברִית (Hebrew)
 * العربية (Arabic)
 * ދިވެހި, (Dhivehi)
 * हिन्दी (Hindi)
