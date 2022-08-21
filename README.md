@@ -36,6 +36,7 @@ Languages:
 * português (Portuguese)
 * română (Romanian)
 * Scots (Scots)
+* shqip (Albanian)
 * suomi (Finnish)
 * svenska (Swedish)
 * Tagalog (Tagalog)
