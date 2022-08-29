@@ -25,6 +25,7 @@ Languages:
 * français (French)
 * Gaelg (Manx)
 * Gàidhlig (Scots Gaelic)
+* hrvatski (Croatian)
 * íslenska (Icelandic)
 * italiano (Italian)
 * Kiswahili (Swahili)
