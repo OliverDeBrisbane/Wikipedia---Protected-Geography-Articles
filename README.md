@@ -45,6 +45,7 @@ Languages:
 * Türkçe (Turkish)
 * Ελληνικά (Greek)
 * беларускі (Belarusian)
+* български (Bulgarian)
 * қазақша/qazaqşa (Kazakh)
 * лезги (Lezigian)
 * македонски (Macedonian)
