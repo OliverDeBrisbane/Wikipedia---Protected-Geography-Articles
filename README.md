@@ -47,6 +47,7 @@ Languages:
 * беларускі (Belarusian)
 * қазақша/qazaqşa (Kazakh)
 * лезги (Lezigian)
+* македонски (Macedonian)
 * русский (Russian)
 * српски/srpski (Serbian)
 * татарча/tatarça (Tatar)
