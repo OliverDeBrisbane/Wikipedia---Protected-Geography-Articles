@@ -57,6 +57,7 @@ Languages:
 * العربية (Arabic)
 * ދިވެހި, (Dhivehi)
 * हिन्दी (Hindi)
+ไทย (Thai)
 * ქართველი (Georgian)
 * 中文 (Chinese)
 * 日本語 (Japanese)
