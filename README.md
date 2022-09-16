@@ -6,6 +6,7 @@ Note: articles are not categorised by protection level in other languages.
 Languages:
 * Afrikaans (Afrikaans)
 * Ásụ̀sụ́ Ìgbò (Igbo)
+* azərbaycanca (Azerbaijani)
 * Bahasa Indonesia (Indonesian)
 * Bahasa Melayu (Malay)
 * Bisaya (Cebuano)
