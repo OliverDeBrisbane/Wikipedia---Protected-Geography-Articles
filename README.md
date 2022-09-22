@@ -62,3 +62,4 @@ Languages:
 * ქართველი (Georgian)
 * 中文 (Chinese)
 * 日本語 (Japanese)
+* 한국인 (Korean)
