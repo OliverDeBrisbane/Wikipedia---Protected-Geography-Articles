@@ -56,6 +56,7 @@ Languages:
 * українська (Ukrainian)
 * עִברִית (Hebrew)
 * العربية (Arabic)
+* مصري عربي (Egyptian Arabic)
 * ދިވެހި, (Dhivehi)
 * हिन्दी (Hindi)
 ไทย (Thai)
