@@ -60,6 +60,8 @@ Languages:
 * فارسی (Persian)
 * ދިވެހި, (Dhivehi)
 * हिन्दी (Hindi)
+* বাংলা (Bengali)
+* தமிழ் (Tamil)
 * ไทย (Thai)
 * ქართველი (Georgian)
 * 中文 (Chinese)
